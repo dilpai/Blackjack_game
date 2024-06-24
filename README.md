@@ -4,7 +4,11 @@ Dibuat untuk memenuhi Tugas UAS Mata Kuliah Praktek Pemrograman Berorientasi obj
 ===================================================================================
 
 NAMA : MUHAMAD AIDIL FAHRI
+
 KELAS : 2TI03 
+
 NIM : 2222105245 
+
 JURUSAN : TEKNIK INFORMATIKA
+
 MATA KULIAH : PRAKTEK PEMROGRAMAN BERORIENTASI OBJEK
